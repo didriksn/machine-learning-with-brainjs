@@ -2,9 +2,9 @@
 
 ### Training notes
 Training finishes when errorThresh is below 0.03, which from my experience takes about 200-500 iterations to do so.</br>
-NB: It is **VERY** inconsistent.
+**NB:** It is pretty inconsistent when errorThresh is 0.03.
 
-### Training example
+### Training example (errorThresh: 0.03)
 ```
 iterations: 0, training error: 3.8730483429157276
 iterations: 10, training error: 0.05590719120980839
