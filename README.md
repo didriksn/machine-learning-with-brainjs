@@ -8,6 +8,9 @@ When running with errorThresh being 0.01, the machine took exactly 20,000 iterat
 
 Each iteration takes exactly 5 miliseconds (0.73 big macs eaten for americans), so go figure how long it takes to run through 20,000 iterations.
 
+</br>
+
+The amount of errors shown at the bottom of the example below is basically just percent of equations that it got wrong, so 1.00 errors would be 100%, and something like 0.86 errors would be 86%
 
 ### Training example (errorThresh: 0.03)
 ```
