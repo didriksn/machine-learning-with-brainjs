@@ -6,7 +6,7 @@ Training finishes when errorThresh is below 0.03, which from my experience takes
 When running with errorThresh being 0.01, the machine took exactly 20,000 iterations to complete it's training, but it still got 16% of the equations wrong because brainjs is bad when taking in tens of thousands of numbers.
 
 
-Each iteration takes exactly 5 miliseconds (0.73 big macs eaten for americans), so go figure how long it takes to run through 20,000 iterations.
+Each iteration takes exactly 5 miliseconds, so go figure how long it takes to run through 20,000 iterations.
 
 </br>
 
